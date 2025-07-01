@@ -1,6 +1,20 @@
 {
   "events": [
     {
+      "title": "techno event!!!",
+      "image": "https://www.shutterstock.com/image-vector/modern-posters-face-mask-technology-600w-2253615811.jpg",
+      "date": "2025-06-03",
+      "description": "acid event",
+      "id": "70bd9bbc-6e00-4eb3-b3e5-122ef3ee9a53"
+    },
+    {
+      "title": "classical event",
+      "image": "https://media.gettyimages.com/id/935007834/photo/music-students-from-the-veenalayam-temple-of-music-perform-with-world-renowned-veena-artist.jpg?s=612x612&w=gi&k=20&c=b-WAe3o3OUngoTqITTpXiLaaDo2kkp2u_64WEQ8d7fM=",
+      "date": "2025-06-04",
+      "description": "indian ragas",
+      "id": "0e791384-254f-4bf3-848d-a44f7b34a867"
+    },
+    {
       "id": "e1",
       "title": "A dummy event",
       "date": "2023-02-22",
